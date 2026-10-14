@@ -1,7 +1,9 @@
-# I build reporting systems that run themselves
+<p align="center">
+  <img src="assets/profile-header.svg" width="100%" alt="Abdul Sami: I build reporting systems that run themselves"/>
+</p>
 
 ## 💫 About Me
-👋 Hi, I’m Abdul Sami, a Business Intelligence Analyst in Jeddah.<br><br>📊 I turn messy ERP and Excel data into clear, automated Power BI dashboards<br>⚙️ I replace multi-day manual reporting with systems that update themselves<br>💼 Finance background: P&L, cash flow, inventory, and sales KPIs that leadership actually uses<br>🏢 Built reporting from scratch for companies with 30+ branches and C-suite audiences<br>🤝 Available for freelance projects: reporting systems, dashboards, Odoo integrations
+👋 Hi, I’m Abdul Sami, a Business Intelligence Analyst in Saudi Arabia.<br><br>📊 I turn messy ERP and Excel data into clear, automated Power BI dashboards<br>⚙️ I replace multi-day manual reporting with systems that update themselves<br>💼 Finance background: P&L, cash flow, inventory, and sales KPIs that leadership actually uses<br>🏢 Built reporting from scratch for companies with 30+ branches and C-suite audiences<br>🤝 Available for freelance projects: reporting systems, dashboards, Odoo integrations
 
 
 ## 🌐 Contact
@@ -36,15 +38,35 @@ or
 ![Data_Pipeline_Monitoring](https://img.shields.io/badge/Data_Pipeline_Monitoring-%23150458.svg?style=for-the-badge&logo=Data_Pipeline_Monitoring&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)   
 
+---
 
-## 📊 Featured Project
+## 🚀 Featured Work
+
+<a href="https://github.com/abdusami-mohammed/YOUR-REPO-NAME">
+  <img src="https://raw.githubusercontent.com/abdusami-mohammed/odoo-to-powerbi-automated-reporting/main/assets/architecture.svg" width="100%" alt="Odoo to Power BI architecture"/>
+</a>  
+  
+**Odoo → Power BI: Automated BI for a Multi-Branch Retail & Wholesale Group**<br/>
+Replaced days of manual Excel reporting…Replaced days of manual Excel reporting across 6 departments with a system that refreshes itself every night. It works even on Odoo's shared hosting, with no direct database access needed.
+
+[![View Case Study](https://img.shields.io/badge/View_Case_Study-→-714B67?style=for-the-badge)](https://github.com/abdusami-mohammed/YOUR-REPO-NAME)
 
 
+---
 
-## 🤝 Let's Collaborate
-I'm open to collaborating on data, automation, or BI visualization projects.  
-📩 Email: [abdusami.mohammed@gmail.com](mailto:abdusami.mohammed@gmail.com)  
+## 🤝 Work With Me
 
-## 🙏 Thanks for stopping by!
-If you like my work, feel free to ⭐ star this profile or reach out for collaboration.  
-Let’s build meaningful data solutions together! 🚀
+<a href="mailto:abdusami.mohammed@gmail.com">
+  <img src="assets/work-with-me.svg" width="100%" alt="Running Odoo and still reporting in Excel? Email me about a project"/>
+</a>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/abdusami-mohammed"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:abdusami.mohammed@gmail.com"><img src="https://img.shields.io/badge/Email-abdusami.mohammed%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abdusami-mohammed/odoo-to-powerbi-automated-reporting/main/assets/footer.svg" width="100%"/>
+</p>
+ 
+
